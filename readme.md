@@ -10,15 +10,15 @@
 
 ## Options:
 
-​    -h --help                   显示帮助
+​    -h --help					显示帮助
 
-​    -v --version                显示版本号
+​    -v --version				显示版本号
 
-​    -i --id                     启用ID，参数为头条视频ID，默认为头条视频URL
+​    -i --id                    启用ID，参数为头条视频ID，默认为头条视频URL
 
-​    -m --multi                  开启多线程
+​    -m --multi					开启多线程
 
-​    -c --threadcount=count    多线程数量，默认为计算机核心数
+​    -c --threadcount=count		多线程数量，默认为计算机核心数
 
 ## Examples:
 
