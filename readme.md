@@ -18,7 +18,7 @@
 
 ​    -m --multi                  开启多线程
 
-​    -c --threadcount=<count>    多线程数量，默认为计算机核心数
+​    -c --threadcount=count    多线程数量，默认为计算机核心数
 
 ## Examples:
 
